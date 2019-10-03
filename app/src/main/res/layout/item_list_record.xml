@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="wrap_content">
+
+    <TextView
+        android:id="@+id/record_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="2dp"
+        android:paddingStart="4dp"
+        android:paddingTop="4dp"
+        android:paddingEnd="4dp"
+        android:text="@string/record_title1"
+        android:textStyle="bold" />
+
+
+    <TextView
+        android:id="@+id/record_place"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="24dp"
+        android:layout_marginEnd="0dp"
+        android:paddingStart="4dp"
+        android:paddingTop="4dp"
+        android:paddingEnd="4dp"
+        android:text="@string/record_place" />
+
+    <TextView
+        android:id="@+id/record_date"
+        android:layout_width="match_parent"
+        android:layout_height="23dp"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="49dp"
+        android:layout_marginEnd="0dp"
+        android:paddingStart="4dp"
+        android:paddingTop="4dp"
+        android:paddingEnd="4dp"
+        android:text="@string/record_date" />
+</RelativeLayout>

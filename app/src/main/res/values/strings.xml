@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">MyCheckins</string>
+    <string name="record_title1">Checkin Records</string>
+    <string name="record_date">Date</string>
+    <string name="record_place">Place</string>
+    <string name="record_date_label">Date</string>
+    <string name="record_details_label">Details</string>
+    <string name="record_title_hint">Enter a title for the record.</string>
+    <string name="record_details_hint">Enter Details for the record.</string>
+    <string name="record_title_label">Title</string>
+    <string name="record_delete_label">Delete Record</string>
+    <string name="record_place_label">Place</string>
+    <string name="record_location_label">Location</string>
+    <string name="record_share_label">Share</string>
+    <string name="record_place_hint">Enter the place name</string>
+    <string name="date_picker_title">Date of Record:</string>
+    <string name="new_record">New Record</string>
+    <string name="record_report">%1$s! The Record was discovered on %2$s in %3$s and  %4$s  </string>
+    <string name="record_report_subject">MyCheckins Record Report</string>
+    <string name="send_report">Send Record Report Via</string>
+    <string name="show_help">Help</string>
+    <string name="record_show_map">Show Map</string>
+    <string name="location">Location</string>
+   <!-- <string name="google_maps_key">AIzaSyCpOCxsPbl-tXlRIV4nzhnRibIYymdznfY</string> -->
+    <string name="Longitude">Longitude</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
